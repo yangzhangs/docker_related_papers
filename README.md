@@ -2,19 +2,23 @@
 A list of of academic papers related to Docker containers & Docker Hub
 
 ## 2018
-* Zhang, Y., Vasilescu, B., Wang, H. and Filkov, V., 2018. One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows. In ESEC/FSE.
+* Santoro, Corrado, Fabrizio Messina, Fabio D'Urso, and Federico Fausto Santoro. Wale: A Dockerfile-Based Approach to Deduplicate Shared Libraries in Docker Containers. In DASC/PiCom/DataCom/CyberSciTech. IEEE, 2018.
 
-* Zhang, Y., Yin, G., Wang, T., Yu, Y. and Wang, H.. An Insight Into the Impact of Dockerfile Evolutionary Trajectories on Quality and Latency. In 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC)
+* Zhang, Y., Vasilescu, B., Wang, H. and Filkov, V.. One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows. In ESEC/FSE. ACM, 2018.
+
+* Zhang, Y., Yin, G., Wang, T., Yu, Y. and Wang, H.. An Insight Into the Impact of Dockerfile Evolutionary Trajectories on Quality and Latency. In COMPSAC. IEEE, 2018.
+
+* Zhang, Y., Wang, H. and Filkov, V. A clustering-based approach for mining dockerfile evolutionary trajectories. SCIS Journal. 2018. 
 
 * Schermann, G., Zumberi, S. and Cito, J. Structured Information on State and Evolution of Dockerfiles on GitHub.
 
-* Xu, T. and Marinov, D. Mining container image repositories for software configuration and beyond. In Proceedings of the 40th International Conference on Software Engineering: New Ideas and Emerging Results.
+* Xu, T. and Marinov, D. Mining container image repositories for software configuration and beyond. In ICSE-NIER. 2018.
 
-* Hassan, F., Rodriguez, R. and Wang, X. RUDSEA: recommending updates of Dockerfiles via software environment analysis. In Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering.
+* Hassan, F., Rodriguez, R. and Wang, X. RUDSEA: recommending updates of Dockerfiles via software environment analysis. In ASE. 2018.
 
-* Yin, K., Zhou, J., Chen, W., Wu, G., Zhu, J. and Wei, J. D-Tagger: A Tag Recommendation Approach for Docker Repositories. In Proceedings of the Tenth Asia-Pacific Symposium on Internetware.
+* Yin, K., Zhou, J., Chen, W., Wu, G., Zhu, J. and Wei, J. D-Tagger: A Tag Recommendation Approach for Docker Repositories. In Internetware. 2018.
 
 ## 2017
-* Cito, J., Schermann, G., Wittern, J.E., Leitner, P., Zumberi, S. and Gall, H.C. An empirical analysis of the Docker container ecosystem on GitHub. In 2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR).
+* Cito, J., Schermann, G., Wittern, J.E., Leitner, P., Zumberi, S. and Gall, H.C. An empirical analysis of the Docker container ecosystem on GitHub. In MSR. 2018.
 
 
