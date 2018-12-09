@@ -1,6 +1,9 @@
 # Docker papers
 A list of of academic papers related to Docker containers & Docker Hub
 
+## 2019
+* Zerouali A, Mens T, Robles G, Gonzalez-Barahona J. *On The Relation Between Outdated Docker Containers, Severity Vulnerabilities and Bugs.* In SANER. 
+
 ## 2018
 * Santoro, Corrado, Fabrizio Messina, Fabio D'Urso, and Federico Fausto Santoro. *Wale: A Dockerfile-Based Approach to Deduplicate Shared Libraries in Docker Containers.* In DASC/PiCom/DataCom/CyberSciTech. IEEE, 2018.
 
@@ -19,6 +22,6 @@ A list of of academic papers related to Docker containers & Docker Hub
 * Yin, K., Zhou, J., Chen, W., Wu, G., Zhu, J. and Wei, J. *D-Tagger: A Tag Recommendation Approach for Docker Repositories.* In Internetware. 2018.
 
 ## 2017
-* Cito, J., Schermann, G., Wittern, J.E., Leitner, P., Zumberi, S. and Gall, H.C. *An empirical analysis of the Docker container ecosystem on GitHub.* In MSR. 2018.
+* Cito, J., Schermann, G., Wittern, J.E., Leitner, P., Zumberi, S. and Gall, H.C. *An empirical analysis of the Docker container ecosystem on GitHub.* In MSR. 2017.
 
 
