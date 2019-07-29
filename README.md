@@ -10,7 +10,15 @@ A list of of academic papers related to Docker containers & Docker Hub
   * Zerouali A, Mens T, Robles G, Gonzalez-Barahona J.
   * In SANER. [source](https://arxiv.org/pdf/1811.12874.pdf)
 
+* *SemiTagRec: A Semi-supervised Learning Based Tag Recommendation Approach for Docker Repositories.* 
+  * Jiahong Zhou, Wei Chen, Guoquan Wu, Jun Wei.
+  * In ICSR. [source](https://link.springer.com/chapter/10.1007/978-3-030-22888-0_10)
+
 ## 2018
+* *STAR: A Specialized Tagging Approach for Docker Repositories.* 
+  * Kang Yin, Wei Chen, Jiahong Zhou, Guoquan Wu, Jun Wei.
+  * In APSEC. [source](https://ieeexplore.ieee.org/abstract/document/8719464)
+
 * *Wale: A Dockerfile-Based Approach to Deduplicate Shared Libraries in Docker Containers.* 
   * Santoro, Corrado, Fabrizio Messina, Fabio D'Urso, and Federico Fausto Santoro.
   * In DASC/PiCom/DataCom/CyberSciTech. [source](https://ieeexplore.ieee.org/abstract/document/8511978)
