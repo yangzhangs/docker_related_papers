@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Docker Hub
 
 ## 2019
+* *Dockerfile TF Smell Detection Based on Dynamic and Static Analysis Methods.* 
+  * Jiwei Xu, Yuewen Wu, Zhigang Lu, Tao Wang.
+  * In COMPSAC. [source](https://ieeexplore.ieee.org/abstract/document/8753910)
+
 * *On The Relation Between Outdated Docker Containers, Severity Vulnerabilities and Bugs.* 
   * Zerouali A, Mens T, Robles G, Gonzalez-Barahona J.
   * In SANER. [source](https://arxiv.org/pdf/1811.12874.pdf)
