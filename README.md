@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Docker Hub
 
 ## 2019
+* *An Empirical Case Study on the Temporary File Smell in Dockerfiles.* 
+  * Zhigang Lu, Jiwei Xu, Yuewen Wu, Zhigang Lu, Tao Wang, Tao Huang.
+  * In IEEE Access. [source](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8667832)
+ 
 * *Dockerfile TF Smell Detection Based on Dynamic and Static Analysis Methods.* 
   * Jiwei Xu, Yuewen Wu, Zhigang Lu, Tao Wang.
   * In COMPSAC. [source](https://ieeexplore.ieee.org/abstract/document/8753910)
