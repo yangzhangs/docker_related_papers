@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Docker Hub
 
 ## 2019
+* *Large-Scale Analysis of the Docker Hub Dataset.*
+  * Nannan Zhao, Vasily Tarasov, Hadeel Albahar, Ali Anwar, Lukas Rupprecht, Dimitrios Skourtis, Amit S. Warke, Mohamed Mohamed, and Ali R. Butt.
+  * In Cluster. [source](http://people.cs.vt.edu/~butta/docs/cluster2019-dockerhub.pdf) 
+  
 * *DOCKERFINDER: Multi-attribute search of Docker images.*
   * Antonio Brogi, Davide Neri, and Jacopo Soldani.
   * In IC2E. [source](https://www.researchgate.net/profile/Davide_Neri3/publication/316903254_DockerFinder_Multi-attribute_Search_of_Docker_Images/links/59ce0a5faca272b0ec1a353f/DockerFinder-Multi-attribute-Search-of-Docker-Images.pdf)
