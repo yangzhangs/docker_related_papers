@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Docker Hub
 
 ## 2019
+* *FastBuild: Accelerating Docker Image Building for Efficient Development and Deployment of Container.*
+  * Zhuo Huang, Song Wu, Song Jiang, and Hai Jin.
+  * In MSST. [source](https://storageconference.us/2019/Research/FastBuild.pdf)
+  
 * *Wale: A solution to share libraries in Docker containers.*
   * Fabio D’Urso, Corrado Santoro, Federico Fausto Santoro.
   * In FGCS. [source](https://www.sciencedirect.com/science/article/pii/S0167739X18327511)
