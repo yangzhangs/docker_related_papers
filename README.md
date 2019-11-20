@@ -35,6 +35,10 @@ A list of of academic papers related to Docker containers & Docker Hub
   * In ICSR. [source](https://link.springer.com/chapter/10.1007/978-3-030-22888-0_10)
 
 ## 2018
+* *Explaining Successful Docker Images Using Pattern Mining Analysis.*
+  * Riccardo Guidotti, Jacopo Soldani, Davide Neri, Antonio Brogi.
+  * In STAF. [source](https://link.springer.com/chapter/10.1007/978-3-030-04771-9_9)
+  
 * *Helping Your Docker Images to Spread Based on Explainable Models.*
   * Riccardo Guidotti, Jacopo Soldani, Davide Neri, Antonio Brogi, Dino Pedreschi.
   * In ECML PKDD. [source](https://link.springer.com/chapter/10.1007/978-3-030-10997-4_13)
