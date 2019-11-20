@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Docker Hub
 
 ## 2019
+* *Wale: A solution to share libraries in Docker containers.*
+  * Fabio D’Urso, Corrado Santoro, Federico Fausto Santoro.
+  * In FGCS. [source](https://www.sciencedirect.com/science/article/pii/S0167739X18327511)
+  
 * *Large-Scale Analysis of the Docker Hub Dataset.*
   * Nannan Zhao, Vasily Tarasov, Hadeel Albahar, Ali Anwar, Lukas Rupprecht, Dimitrios Skourtis, Amit S. Warke, Mohamed Mohamed, and Ali R. Butt.
   * In Cluster. [source](http://people.cs.vt.edu/~butta/docs/cluster2019-dockerhub.pdf) 
