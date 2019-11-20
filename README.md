@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Docker Hub
 
 ## 2019
+* *DOCKERFINDER: Multi-attribute search of Docker images.*
+  * Antonio Brogi, Davide Neri, and Jacopo Soldani.
+  * In IC2E. [source](https://www.researchgate.net/profile/Davide_Neri3/publication/316903254_DockerFinder_Multi-attribute_Search_of_Docker_Images/links/59ce0a5faca272b0ec1a353f/DockerFinder-Multi-attribute-Search-of-Docker-Images.pdf)
+
 * *An Empirical Case Study on the Temporary File Smell in Dockerfiles.* 
   * Zhigang Lu, Jiwei Xu, Yuewen Wu, Zhigang Lu, Tao Wang, Tao Huang.
   * In IEEE Access. [source](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8667832)
