@@ -23,6 +23,10 @@ A list of of academic papers related to Docker containers & Docker Hub
   * In ICSR. [source](https://link.springer.com/chapter/10.1007/978-3-030-22888-0_10)
 
 ## 2018
+* *Helping Your Docker Images to Spread Based on Explainable Models.*
+  * Riccardo Guidotti, Jacopo Soldani, Davide Neri, Antonio Brogi, Dino Pedreschi.
+  * In ECML PKDD. [source](https://link.springer.com/chapter/10.1007/978-3-030-10997-4_13)
+ 
 * *STAR: A Specialized Tagging Approach for Docker Repositories.* 
   * Kang Yin, Wei Chen, Jiahong Zhou, Guoquan Wu, Jun Wei.
   * In APSEC. [source](https://ieeexplore.ieee.org/abstract/document/8719464)
