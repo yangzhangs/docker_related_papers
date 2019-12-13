@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Docker Hub
 
 ## 2019
+* *Handling Duplicates in Dockerfiles Families: Learning from Experts.*
+  * Mohamed A. Oumaziz, Jean-Rémy Falleri, Xavier Blanc, Tegawendé F. Bissyandé, Jacques Klein.
+  * In ICSME. [source](https://ieeexplore.ieee.org/abstract/document/8919205/authors#authors)
+
 * *FastBuild: Accelerating Docker Image Building for Efficient Development and Deployment of Container.*
   * Zhuo Huang, Song Wu, Song Jiang, and Hai Jin.
   * In MSST. [source](https://storageconference.us/2019/Research/FastBuild.pdf)
