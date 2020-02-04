@@ -1,6 +1,16 @@
 # Docker related papers
 A list of of academic papers related to Docker containers & Docker Hub
 
+## 2020
+* *Exploring the Relationship between Dockerfile Quality and Project Charateristics.*
+  * Yiwen Wu.
+  * In ICSE-SRC. [source](https://conf.researchr.org/track/icse-2020/icse-2020-ACM-Student-Research-Competition#About)
+
+* *Learning from, Understanding, and Supporting DevOps Artifacts for Docker.*
+  * Jordan Henkel, Christian Bird, Shuvendu K. Lahiri, Thomas Reps.
+  * In ICSE. [source](https://conf.researchr.org/track/icse-2020/icse-2020-papers#event-overview) 
+
+
 ## 2019
 * *Handling Duplicates in Dockerfiles Families: Learning from Experts.*
   * Mohamed A. Oumaziz, Jean-Rémy Falleri, Xavier Blanc, Tegawendé F. Bissyandé, Jacques Klein.
