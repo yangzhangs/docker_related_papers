@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Docker Hub
 
 ## 2020
+* *Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study.*
+  * Yiwen Wu, Yang Zhang, Tao Wang, Huaimin Wang.
+  * In IEEE Access. [source](https://ieeexplore.ieee.org/document/8998208)
+  
 * *Exploring the Relationship between Dockerfile Quality and Project Charateristics.*
   * Yiwen Wu.
   * In ICSE-SRC. [source](https://conf.researchr.org/track/icse-2020/icse-2020-ACM-Student-Research-Competition#About)
