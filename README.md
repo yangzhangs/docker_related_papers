@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Docker Hub
 
 ## 2020
+* *A Tale of Docker Build Failures: A Preliminary Study.*
+  * Yiwen Wu*, Yang Zhang*, Tao Wang, Huaimin Wang.
+  * In MSR. [source]()
+
 * *Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study.*
   * Yiwen Wu, Yang Zhang, Tao Wang, Huaimin Wang.
   * In IEEE Access. [source](https://ieeexplore.ieee.org/document/8998208)
