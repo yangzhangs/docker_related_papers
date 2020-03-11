@@ -2,7 +2,7 @@
 A list of of academic papers related to Docker containers & Docker Hub
 
 ## 2020
-* *A Tale of Docker Build Failures: A Preliminary Study.*
+* *An Empirical Study of Build Failures in the Docker Context.*
   * Yiwen Wu*, Yang Zhang*, Tao Wang, Huaimin Wang.
   * In MSR. [source]()
 
