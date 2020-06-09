@@ -1,5 +1,5 @@
 # Docker related papers
-A list of of academic papers related to Docker containers & Docker Hub
+A list of of academic papers related to Docker containers & Docker Hub. 
 
 ## 2020
 * *A Dataset of Dockerfiles.*
