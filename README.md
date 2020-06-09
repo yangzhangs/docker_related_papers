@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Docker Hub
 
 ## 2020
+* *A Dataset of Dockerfiles.*
+  * Jordan Henkel, Christian Bird, Shuvendu K. Lahiri, Thomas Reps.
+  * In MSR. [source](https://arxiv.org/pdf/2003.12912.pdf)
+
 * *An Empirical Study of Build Failures in the Docker Context.*
   * Yiwen Wu*, Yang Zhang*, Tao Wang, Huaimin Wang.
   * In MSR. [source]()
