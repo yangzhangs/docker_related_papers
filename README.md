@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Docker Hub. 
 
 ## 2020
+* *Challenges in Docker Development: A Large-scale Study Using Stack Overflow.*
+  * Mubin Ul Haque, Leonardo Iwaya and Muhammad Ali Babar.
+  * In ESEM. [source](https://arxiv.org/pdf/2008.04467.pdf)
+ 
 * *A Dataset of Dockerfiles.*
   * Jordan Henkel, Christian Bird, Shuvendu K. Lahiri, Thomas Reps.
   * In MSR. [source](https://arxiv.org/pdf/2003.12912.pdf)
