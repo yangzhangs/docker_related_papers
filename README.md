@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Docker Hub. 
 
 ## 2020
+* *Ten Simple Rules for Writing Dockerfiles for Reproducible Data Science. *
+  * Daniel Nüst, Vanessa Sochat, Ben Marwick, Stephen Eglen, Tim Head, Tony Hirst, Benjamin Evans. 
+  * In OSFPreprints. [source](https://osf.io/fsd7t)
+
 * *Challenges in Docker Development: A Large-scale Study Using Stack Overflow.*
   * Mubin Ul Haque, Leonardo Iwaya and Muhammad Ali Babar.
   * In ESEM. [source](https://arxiv.org/pdf/2008.04467.pdf)
