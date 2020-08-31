@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Docker Hub. 
 
 ## 2020
+* *Too many images on DockerHub! How different are images for the same system?*
+  * M.H. Ibrahim, M. Sayagh, Hassan, A.E.
+  * In ESE. [source](https://link.springer.com/article/10.1007/s10664-020-09873-0)
+
 * *Ten Simple Rules for Writing Dockerfiles for Reproducible Data Science.*
   * Daniel Nüst, Vanessa Sochat, Ben Marwick, Stephen Eglen, Tim Head, Tony Hirst, Benjamin Evans. 
   * In OSFPreprints. [source](https://osf.io/fsd7t)
