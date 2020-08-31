@@ -1,5 +1,5 @@
 # Docker related papers
-A list of of academic papers related to Docker containers & Docker Hub. 
+A list of of academic papers related to Docker containers & Dockerfile. 
 
 ## 2020
 * *Too many images on DockerHub! How different are images for the same system?*
