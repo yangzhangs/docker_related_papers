@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Dockerfile. 
 
 ## 2020
+* *A Large-scale Data Set and an Empirical Study of Docker Images Hosted on Docker Hub.*
+  * Lin, C.; Nadi, S.; and Khazaei, H.
+  * In ICSME. [source](https://www.researchgate.net/profile/Hamzeh_Khazaei/publication/344198434_A_Large-scale_Data_Set_and_an_Empirical_Study_of_Docker_Images_Hosted_on_Docker_Hub/links/5f5aec4da6fdcc116409389c/A-Large-scale-Data-Set-and-an-Empirical-Study-of-Docker-Images-Hosted-on-Docker-Hub.pdf)
+
 * *Too many images on DockerHub! How different are images for the same system?*
   * M.H. Ibrahim, M. Sayagh, Hassan, A.E.
   * In ESE Journal. [source](https://link.springer.com/article/10.1007/s10664-020-09873-0)
