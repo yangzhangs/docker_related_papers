@@ -2,6 +2,14 @@
 A list of of academic papers related to Docker containers & Dockerfile. 
 
 ## 2020
+* *Using Configuration Semantic Features and Machine Learning Algorithms to Predict Build Result in Cloud-Based Container Environment.*
+  * Yiwen Wu*, Yang Zhang*, Junsheng Chang, Bo Ding, Tao Wang, Huaimin Wang.
+  * In ICPADS. [source](https://www.researchgate.net/publication/344830542_Using_Configuration_Semantic_Features_and_Machine_Learning_Algorithms_to_Predict_Build_Result_in_Cloud-Based_Container_Environment)
+  
+* *Dockerfile Changes in Practice: A Large-Scale Empirical Study of 4,110 Projects on GitHub.*
+  * Yiwen Wu*, Yang Zhang*, Tao Wang, Huaimin Wang.
+  * In APSEC. [source](https://www.researchgate.net/publication/344830441_Dockerfile_Changes_in_Practice_A_Large-Scale_Empirical_Study_of_4110_Projects_on_GitHub)
+
 * *A Large-scale Data Set and an Empirical Study of Docker Images Hosted on Docker Hub.*
   * Lin, C.; Nadi, S.; and Khazaei, H.
   * In ICSME. [source](https://www.researchgate.net/profile/Hamzeh_Khazaei/publication/344198434_A_Large-scale_Data_Set_and_an_Empirical_Study_of_Docker_Images_Hosted_on_Docker_Hub/links/5f5aec4da6fdcc116409389c/A-Large-scale-Data-Set-and-an-Empirical-Study-of-Docker-Images-Hosted-on-Docker-Hub.pdf)
