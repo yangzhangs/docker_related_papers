@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Dockerfile. 
 
 ## 2020
+* *Latest Image Recommendation Method for Automatic Base Image Update in Dockerfile.*
+  * Kitajima S, Sekiguchi A.
+  * In ICSOC. [source](https://link.springer.com/chapter/10.1007/978-3-030-65310-1_40)
+
 * *Using Configuration Semantic Features and Machine Learning Algorithms to Predict Build Result in Cloud-Based Container Environment.*
   * Yiwen Wu*, Yang Zhang*, Junsheng Chang, Bo Ding, Tao Wang, Huaimin Wang.
   * In ICPADS. [source](https://www.researchgate.net/publication/344830542_Using_Configuration_Semantic_Features_and_Machine_Learning_Algorithms_to_Predict_Build_Result_in_Cloud-Based_Container_Environment)
