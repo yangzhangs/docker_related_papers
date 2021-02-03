@@ -1,6 +1,15 @@
 # Docker related papers
 A list of of academic papers related to Docker containers & Dockerfile. 
 
+## 2021
+* *Shipwright: A Human-in-the-Loop System for Dockerfile Repair.*
+  * Jordan Henkel, Denini Silva, Leopoldo Teixeira, Marcelo d'Amorim, Thomas Reps.
+  * In ICSE. [source](https://conf.researchr.org/track/icse-2021/icse-2021-papers)
+
+* *Should you Upgrade Official Docker Hub Images in Production Environments?*
+  * Sara Gholami, Hamzeh Khazaei, Cor-Paul Bezemer.
+  * In ICSE-NIER. [source](https://conf.researchr.org/track/icse-2021/icse-2021-New-Ideas-and-Emerging-Results) 
+  
 ## 2020
 * *Latest Image Recommendation Method for Automatic Base Image Update in Dockerfile.*
   * Kitajima S, Sekiguchi A.
