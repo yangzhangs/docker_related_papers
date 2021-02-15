@@ -2,13 +2,17 @@
 A list of of academic papers related to Docker containers & Dockerfile. 
 
 ## 2021
+* *A multi-dimensional analysis of technical lag in Debian-based Docker images.*
+  * Ahmed Zerouali, Tom Mens, Alexandre Decan, Jesus Gonzalez-Barahona, Gregorio Robles.
+  * In EMSE. [source](https://decan.lexpage.net/files/EMSE-2021.pdf)
+
 * *Shipwright: A Human-in-the-Loop System for Dockerfile Repair.*
   * Jordan Henkel, Denini Silva, Leopoldo Teixeira, Marcelo d'Amorim, Thomas Reps.
   * In ICSE. [source](https://conf.researchr.org/track/icse-2021/icse-2021-papers)
 
 * *Should you Upgrade Official Docker Hub Images in Production Environments?*
   * Sara Gholami, Hamzeh Khazaei, Cor-Paul Bezemer.
-  * In ICSE-NIER. [source](https://conf.researchr.org/track/icse-2021/icse-2021-New-Ideas-and-Emerging-Results) 
+  * In ICSE-NIER. [source](https://www.researchgate.net/profile/Cor_Paul_Bezemer2/publication/348884285_Should_you_Upgrade_Official_Docker_Hub_Images_in_Production_Environments/links/601450dd45851517ef2688c7/Should-you-Upgrade-Official-Docker-Hub-Images-in-Production-Environments.pdf) 
   
 ## 2020
 * *Latest Image Recommendation Method for Automatic Base Image Update in Dockerfile.*
