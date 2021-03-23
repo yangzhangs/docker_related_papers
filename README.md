@@ -2,6 +2,10 @@
 A list of of academic papers related to Docker containers & Dockerfile. 
 
 ## 2021
+* *Revisiting Dockerfiles in Open Source Software Over Time.*
+  * Kalvin Eng, Abram Hindle.
+  * In MSR. [source](https://2021.msrconf.org/details/msr-2021-technical-papers/45/Revisiting-Dockerfiles-in-Open-Source-Software-Over-Time)
+
 * *A multi-dimensional analysis of technical lag in Debian-based Docker images.*
   * Ahmed Zerouali, Tom Mens, Alexandre Decan, Jesus Gonzalez-Barahona, Gregorio Robles.
   * In EMSE. [source](https://decan.lexpage.net/files/EMSE-2021.pdf)
