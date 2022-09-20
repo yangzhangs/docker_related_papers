@@ -1,5 +1,5 @@
 # Docker-related Research Repository
-This project was created to be a public repository to support Docker-related research. You are welcome to share other research with us. To add a new paper, you can simply add an issue or a pull request. 
+This project was created to be a public repository to support Docker-related research & study. You are welcome to share other research with us. To add a new paper, you can simply add an issue or a pull request. 
 
 ## 2022
 * *Fixing Dockerfile Smells: An Empirical Study.*
