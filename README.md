@@ -1,7 +1,53 @@
-# Docker related papers
-A list of of academic papers related to Docker containers & Dockerfile. 
+# Docker-related Research Repository
+This project was created to be a public repository to support Docker-related research. You are welcome to share other research with us. To add a new paper, you can simply add an issue or a pull request. 
+
+## 2022
+* *Fixing Dockerfile Smells: An Empirical Study.*
+  * Giovanni Rosa, Simone Scalabrino and Rocco Oliveto.
+  * In ICSME. [source](https://arxiv.org/abs/2208.09097)
+  
+* *Dockerlive: A live development environment for Dockerfiles.*
+  * D Reis, FF Correia.
+  * In VL/HCC. [source](https://ieeexplore.ieee.org/document/9833145)
+
+* *Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects.*
+  * Yiwen Wu, Yang Zhang, Kele Xu, Tao Wang, and Huaimin Wang.
+  * In ASE. [source]()
+
+
+* *An empirical study on self-admitted technical debt in Dockerfiles.*
+  * Azuma H, Matsumoto S, Kamei Y, et al.
+  * In ESE. [source](https://link.springer.com/article/10.1007/s10664-021-10081-7)
+
+* *Recommending Base Image for Docker Containers based on Deep Configuration Comprehension.*
+  * Zhang Y*, Zhang Y*, Mao X, et al.
+  * In SANER. [source](https://www.researchgate.net/profile/Shangwen-Wang/publication/357825873_Recommending_Base_Image_for_Docker_Containers_based_on_Deep_Configuration_Comprehension/links/61e53078c5e31033759f41b4/Recommending-Base-Image-for-Docker-Containers-based-on-Deep-Configuration-Comprehension.pdf)
+
+* *A Preliminary Analysis of GPL-Related License Violations in Docker Images.*
+  * Higashi Y, Fukui K, Ohira M.
+  * In SANER. [source](https://ieeexplore.ieee.org/abstract/document/9825809)
 
 ## 2021
+* *Type-2 Code Clone Detection for Dockerfiles.*
+  * Tsuru T, Nakagawa T, Matsumoto S, Higo Y, Kusumoto S.
+  * In IWSC. [source](https://ieeexplore.ieee.org/abstract/document/9679789/authors#authors) 
+
+* *Refactorings and Technical Debt in Docker Projects: An Empirical Study.*
+  * Ksontini E, Kessentini M, Ferreira T N, et al.
+  * In ASE. [source](https://ieeexplore.ieee.org/abstract/document/9678585/) 
+
+* *A study of how Docker Compose is used to compose multi-component systems.*
+  * Ibrahim M H, Sayagh M, Hassan A E.
+  * In ESE. [source](https://link.springer.com/article/10.1007/s10664-021-10025-1) 
+
+* *Developing Docker and Docker-Compose Specifications: A Developers' Survey.*
+  * Reis D, Piedade B, Correia F F, et al.
+  * In IEEE Access. [source](https://ieeexplore.ieee.org/iel7/6287639/9668973/09658534.pdf) 
+
+* *DockerGen: A Knowledge Graph based Approach for Software Containerization.*
+  * Ye H, Zhou J, Chen W, et al.
+  * In COMPSAC. [source](https://ieeexplore.ieee.org/abstract/document/9529714/)
+
 * *Revisiting Dockerfiles in Open Source Software Over Time.*
   * Kalvin Eng, Abram Hindle.
   * In MSR. [source](https://2021.msrconf.org/details/msr-2021-technical-papers/45/Revisiting-Dockerfiles-in-Open-Source-Software-Over-Time)
