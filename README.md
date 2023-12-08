@@ -1,10 +1,43 @@
 # Docker-related Research Repository
 This project was created to be a public repository to support Docker-related research and study. You are welcome to share other research with us. To add a new paper, you can simply add an issue or a pull request. 
 
+## 2023
+* *What Quality Aspects Influence the Adoption of Docker Images?*
+  * Giovanni Rosa, Simone Scalabrino, Gabriele Bavota, and Rocco Oliveto
+  * In TOSEM journal. [source](https://dl.acm.org/doi/10.1145/3603111) | [talk](https://www.slideshare.net/GiovanniRosa14/what-quality-aspects-influence-the-adoption-of-docker-images)
+
+* *The Docker Hub Image Inheritance Network: Construction and Empirical Insights*
+  * Ruben Opdebeeck, Jonas Lesy, Ahmed Zerouali, and Coen De Roover
+  * In SCAM conference. [source](https://soft.vub.ac.be/Publications/2023/vub-tr-soft-23-14.pdf)
+ 
+* *DockerCleaner: Automatic Repair of Security Smells in Dockerfiles*
+  *  Quang-Cuong Bui, Malte Laukötter, and Riccardo Scandariato
+  *  In ICSME conference. [source](https://cuong.buiquang.com/papers/icsme23.pdf)
+
+* *Patterns in Docker Compose Multi-Container Orchestration*
+  * Kalvin Eng, Abram Hindle, and Eleni Stroulia
+  * In venue unknown, preprint. [source](https://arxiv.org/abs/2305.11293)
+ 
+* *Parfum: Detection and Automatic Repair of Dockerfile Smells*
+  * Thomas Durieux
+  * In venue unknown, preprint. [source](https://arxiv.org/ftp/arxiv/papers/2302/2302.01707.pdf)
+
+* *Automatically Generating Dockerfiles via Deep-Learning: Challenges and Promises*
+  * Giovanni Rosa, Antonio Mastropaolo, Simone Scalabrino, Gabriele Bavota, and Rocco Oliveto
+  * In IEEE ICSSP conference. [source](https://arxiv.org/pdf/2303.15990.pdf) | [talk](https://www.slideshare.net/GiovanniRosa14/automatically-generating-dockerfiles-via-deep-learning-challenges-and-promises)
+
 ## 2022
 * *Fixing Dockerfile Smells: An Empirical Study.*
   * Giovanni Rosa, Simone Scalabrino and Rocco Oliveto.
-  * In ICSME. [source](https://arxiv.org/abs/2208.09097)
+  * In ICSME conference, Registered Reports. [source](https://arxiv.org/abs/2208.09097) | [talk](https://www.slideshare.net/GiovanniRosa14/fixing-dockerfile-smells-an-empirical-study)
+
+* *Assessing and Improving the Quality of Docker Artifacts*
+  * Giovanni Rosa, Simone Scalabrino, and Rocco Oliveto
+  * In ICSME conference, Doctoral Symposium. [source](https://ieeexplore.ieee.org/document/9978228) | [talk](https://www.slideshare.net/GiovanniRosa14/assessing-and-improving-the-quality-of-docker-artifacts-icsme-2022)
+
+* *DRIVE: Dockerfile Rule Mining and Violation Detection*
+  * Yu Zhou, Weilin Zhan, Zi Li, Tingting Han, Taolue Chen, and Harald Gall
+  * In venue unknown, preprint. [source](https://arxiv.org/pdf/2212.05648.pdf)
   
 * *Dockerlive: A live development environment for Dockerfiles.*
   * D Reis, FF Correia.
@@ -13,7 +46,6 @@ This project was created to be a public repository to support Docker-related res
 * *Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects.*
   * Yiwen Wu, Yang Zhang, Kele Xu, Tao Wang, and Huaimin Wang.
   * In ASE. [source]()
-
 
 * *An empirical study on self-admitted technical debt in Dockerfiles.*
   * Azuma H, Matsumoto S, Kamei Y, et al.
@@ -197,8 +229,15 @@ This project was created to be a public repository to support Docker-related res
   * In Internetware conference. [source](https://dl.acm.org/citation.cfm?id=3275220)
 
 ## 2017
+* *A Study of Security Vulnerabilities on Docker Hub*
+  * Rui Shu, Xiaohui Gu, and William Enck
+  * In CODASPY conference. [source](https://dl.acm.org/doi/abs/10.1145/3029806.3029832)
+
 * *An empirical analysis of the Docker container ecosystem on GitHub.* 
   * Cito, J., Schermann, G., Wittern, J.E., Leitner, P., Zumberi, S. and Gall, H.C.
   * In MSR conference. [source](https://www.computer.org/csdl/proceedings/msr/2017/1544/00/07962382.pdf)
 
-
+## 2016
+* *To Docker or Not to Docker: A Security Perspective*
+  * Theo Combe, Antony Martin, and Roberto Di Pietro
+  * In IEEE Cloud Computing journal. [source](https://ieeexplore.ieee.org/document/7742298)
