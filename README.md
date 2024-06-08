@@ -1,6 +1,15 @@
 # Docker-related Research Repository
 This project was created to be a public repository to support Docker-related research and study. You are welcome to share other research with us. To add a new paper, you can simply add an issue or a pull request. 
 
+## 2024
+* *Empirical Study of the Docker Smells Impact on the Image Size*
+  * T Durieux
+  * In ICSE conference. [source](https://dl.acm.org/doi/pdf/10.1145/3597503.3639143)
+
+* *A Transformer-based Model for Assisting Dockerfile Revising*
+  * Y Wu, Y Zhang, T Wang, H Wang
+  * In ICSE conference. [source](https://dl.acm.org/doi/abs/10.1145/3639478.3643083) 
+
 ## 2023
 * *What Quality Aspects Influence the Adoption of Docker Images?*
   * Giovanni Rosa, Simone Scalabrino, Gabriele Bavota, and Rocco Oliveto
