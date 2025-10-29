@@ -1,7 +1,20 @@
 # Docker-related Research Repository
 This project was created to be a public repository to support Docker-related research and study. You are welcome to share other research with us. To add a new paper, you can simply add an issue or a pull request. 
 
+## 2025
+* *Mining and Measuring the Impact of Change Patterns for Improving the Size and Build Time of Docker Images*
+  * Giovanni Rosa, Emanuela Guglielmi, Mattia Iannone, Simone Scalabrino, and Rocco Oliveto
+  * In EMSE journal. [source](https://doi.org/10.1007/s10664-025-10680-8)
+
 ## 2024
+* *Not all Dockerfile Smells are the Same: An Empirical Evaluation of Hadolint Writing Practices by Experts*
+  * Giovanni Rosa, Simone Scalabrino, Gregorio Robles, and Rocco Oliveto
+  * In MSR conference. [source](https://doi.org/10.1145/3643991.3644905)
+
+* *Fixing Dockerfile Smells: An Empirical Study*
+  * Giovanni Rosa, Federico Zappone, Simone Scalabrino, and Rocco Oliveto
+  * In EMSE journal. [source](https://doi.org/10.1007/s10664-024-10471-7)
+
 * *DRMiner: A Tool For Identifying And Analyzing Refactorings In Dockerfile*
   * Emna Ksontini, Aycha Abid, Rania Khalsi, Marouane Kessentini
   * In MSR conference. [source](https://dl.acm.org/doi/abs/10.1145/3643991.3644921) 
