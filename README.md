@@ -6,6 +6,10 @@ This project was created to be a public repository to support Docker-related res
   * Giovanni Rosa, Emanuela Guglielmi, Mattia Iannone, Simone Scalabrino, and Rocco Oliveto
   * In EMSE journal. [source](https://doi.org/10.1007/s10664-025-10680-8)
 
+* *Towards Understanding Docker Build Faults in Practice: Symptoms, Root Causes, and Fix Patterns*
+  * Yiwen Wu, Yang Zhang, Tao Wang, Bo Ding, and Huaimin Wang
+  * In FSE conference. [source](https://dl.acm.org/doi/epdf/10.1145/3715757) 
+
 ## 2024
 * *Not all Dockerfile Smells are the Same: An Empirical Evaluation of Hadolint Writing Practices by Experts*
   * Giovanni Rosa, Simone Scalabrino, Gregorio Robles, and Rocco Oliveto
