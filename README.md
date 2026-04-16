@@ -1,7 +1,34 @@
 # Docker-related Research Repository
 This project was created to be a public repository to support Docker-related research and study. You are welcome to share other research with us. To add a new paper, you can simply add an issue or a pull request. 
 
+## 2026
+
+
 ## 2025
+* *Dr. Docker: A Large-Scale Security Measurement of Docker Image Ecosystem*
+  * Hequan Shi, Lingyun Ying, Libo Chen, Haixin Duan, Ming Liu, and Zhi Xue
+  * In WWW conference. [source](https://dl.acm.org/doi/abs/10.1145/3696410.3714653)
+
+* *Refactoring for Dockerfile Quality: A Dive into Developer Practices and Automation Potential*
+  * Emna Ksontini, Meriem Mastouri, Rania Khalsi, and Wael Kessentini
+  * In MSR conference. [source](https://ieeexplore.ieee.org/abstract/document/11025789)
+
+* *Doctor: Optimizing Container Rebuild Efficiency by Instruction Re-orchestration*
+  * Zhiling Zhu, Tieming Chen, Chengwei Liu, Han Liu, Qijie Song, Zhengzi Xu, and Yang Liu
+  * In ISSTA conference. [source](https://dl.acm.org/doi/abs/10.1145/3728870)
+
+* *Toward Automated Test Generation for Dockerfiles Based on Analysis of Docker Image Layers*
+  * Yuki Goto, Shinsuke Matsumoto, Shinji Kusumoto
+  * In EASE conference. [source](https://dl.acm.org/doi/full/10.1145/3756681.3757020)
+
+* *DockInsight: A Knowledge-Augmented Dependency Extraction Approach for Dockerfile*
+  * Zhiling Zhu, Tieming Chen, Yunjin Zhong, and Qijie Song
+  * In ICSR conference. [source](https://ieeexplore.ieee.org/abstract/document/11024505)
+
+* *DockerFill: Automatically Completing Dockerfile Code With Syntax-Aware Multi-Task Learning*
+  * Yiwen Wu, Yang Zhang, Tao Wang, Bo Ding, and Huaimin Wang
+  * In TSE journal. [source](https://ieeexplore.ieee.org/abstract/document/11244857) 
+  
 * *Mining and Measuring the Impact of Change Patterns for Improving the Size and Build Time of Docker Images*
   * Giovanni Rosa, Emanuela Guglielmi, Mattia Iannone, Simone Scalabrino, and Rocco Oliveto
   * In EMSE journal. [source](https://doi.org/10.1007/s10664-025-10680-8)
